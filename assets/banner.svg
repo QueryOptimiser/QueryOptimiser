@@ -6,6 +6,10 @@
 .u{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace;font-size:24px;fill:#9be9ff;letter-spacing:3px}
 .g{animation:gl 3s ease-in-out infinite}@keyframes gl{0%,100%{opacity:.8}50%{opacity:1}}
 
+.mz{animation:mz 1.6s ease-in-out infinite}@keyframes mz{0%,100%{transform:translateX(0)}50%{transform:translateX(18px)}}
+.mb{animation:bob .25s steps(1) infinite}
+.mt{transform-box:fill-box;transform-origin:100% 50%;animation:wag .4s ease-in-out infinite}
+
 .cat{animation:walk 18s linear infinite}@keyframes walk{0%{transform:translateX(-90px)}100%{transform:translateX(1060px)}}
 .bob{animation:bob .5s steps(1) infinite}@keyframes bob{0%{transform:translateY(0)}50%{transform:translateY(-2px)}}
 .la{animation:la .5s steps(1) infinite}.lb{animation:lb .5s steps(1) infinite}
@@ -38,6 +42,16 @@
 <g class="la"><rect x="32" y="-8" width="7" height="8" rx="2"/><rect x="5" y="-8" width="7" height="8" rx="2"/></g>
 <g class="lb"><rect x="22" y="-8" width="7" height="8" rx="2"/><rect x="14" y="-8" width="7" height="8" rx="2"/></g>
 </g>
+<g transform="translate(96 0)"><g class="mz"><g class="mb">
+<g stroke="#ffd166" stroke-width="1.6" stroke-linecap="round" fill="none">
+<path class="la" d="M4 -6 l-4 6 M10 -6 l0 6 M16 -6 l4 6"/><path class="lb" d="M4 -6 l-6 4 M10 -6 l-2 6 M16 -6 l6 4"/>
+<path d="M22 -12 q4 -8 9 -8 M22 -10 q6 -4 10 -2"/></g>
+<ellipse cx="10" cy="-10" rx="11" ry="8" fill="#3fb950" stroke="#0d1117" stroke-width="1.2"/>
+<path d="M10 -18 V-2" stroke="#0d1117" stroke-width="1.4"/>
+<circle cx="6" cy="-12" r="1.8" fill="#0d1117"/><circle cx="14" cy="-8" r="1.8" fill="#0d1117"/>
+<circle cx="21" cy="-10" r="4.5" fill="#1a7f37"/><circle cx="23" cy="-11" r="1.2" fill="#fff"/>
+<text x="-2" y="-24" fill="#ff2bd6" style="font-family:monospace;font-size:13px;font-weight:700">!?</text>
+</g></g></g>
 <g fill="#00e5ff"><rect class="eye" x="44" y="-26" width="4" height="5"/><rect class="eye" x="52" y="-26" width="4" height="5"/></g></g></g>
 <rect width="1000" height="300" fill="url(#scan)"/>
 </svg>

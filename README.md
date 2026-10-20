@@ -28,6 +28,6 @@
 
 <br />
 
-<sub>🐈 the cat lives on the skyline. more coming as I finish things worth showing.</sub>
+<sub>🐈 the cat is still chasing that bug. more coming as I finish things worth showing.</sub>
 
 </div>
