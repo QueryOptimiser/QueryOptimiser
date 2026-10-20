@@ -1,32 +1,33 @@
 <div align="center">
 
-<a href="https://github.com/QueryOptimiser">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=1200&color=39D353&center=true&vCenter=true&width=520&lines=%24+whoami;QueryOptimiser;%24+cat+interests.txt;reverse+engineering+%C2%B7+CTFs+%C2%B7+vuln+research" alt="terminal typing animation" />
-</a>
+<img src="assets/banner.svg" alt="QueryOptimiser: neon city skyline with a cat walking along the rooftops" width="100%" />
+
+# 🔓 break it. understand it. write it up.
+
+<img src="assets/terminal.svg" alt="terminal: whoami, about, interests, writeups" width="88%" />
+
+<br />
+
+## 🧰 Toolbox
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3fb950)
+![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=58a6ff)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=58a6ff)
+![GDB](https://img.shields.io/badge/GDB-0d1117?style=for-the-badge&logo=gnu&logoColor=ff2bd6)
+![Ghidra](https://img.shields.io/badge/Ghidra-0d1117?style=for-the-badge&logoColor=00e5ff)
+![Fuzzing](https://img.shields.io/badge/Fuzzing-0d1117?style=for-the-badge&logoColor=b517ff)
+
+<br />
+
+## 🏁 TISC 2026
+
+### [**▶ Read my write-ups**](https://queryoptimiser.github.io/tisc-2026/)
+
+<sub>Levels 1–7: the mechanisms, the dead ends, and how I got there.</sub>
+
+<br />
+
+<sub>🐈 the cat lives on the skyline. more coming as I finish things worth showing.</sub>
 
 </div>
-
-```console
-user@github:~$ whoami
-QueryOptimiser
-
-user@github:~$ cat about.txt
-Reverse engineering, CTFs and finding bugs in C code.
-Learning by breaking things I'm allowed to break.
-
-user@github:~$ ls interests/
-reverse-engineering/  pwn/  fuzzing/  firmware/  crypto/
-
-user@github:~$ ls writeups/
-tisc-2026/
-
-user@github:~$ _
-```
-
-### Featured
-
-| | |
-|---|---|
-| **TISC 2026** | My write-ups and notes from the competition: [queryoptimiser.github.io/tisc-2026](https://queryoptimiser.github.io/tisc-2026/) |
-
-<sub>More coming as I finish things worth showing.</sub>
