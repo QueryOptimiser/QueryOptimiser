@@ -40,14 +40,14 @@
 
 ## 🏁 TISC 2026
 
-🏆 **Among the top 50 finishers**
+### 🏆 Among the top 50 finishers
 
-### [**▶ Read my write-ups**](https://queryoptimiser.github.io/tisc-2026/)
+## [▶ Read my write-ups](https://queryoptimiser.github.io/tisc-2026/)
 
-<sub>Levels 1–7: the mechanisms, the dead ends, and how I got there.</sub>
+#### Levels 1–7: the mechanisms, the dead ends, and how I got there.
 
 <br />
 
-<sub>🐈 More coming as I finish things worth showing.</sub>
+#### 🐈 More coming as I finish things worth showing.
 
 </div>
