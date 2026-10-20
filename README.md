@@ -28,6 +28,6 @@
 
 <br />
 
-<sub>🐈 the cat is still chasing that bug. more coming as I finish things worth showing.</sub>
+<sub>🐈 More coming as I finish things worth showing.</sub>
 
 </div>
