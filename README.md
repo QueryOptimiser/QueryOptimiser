@@ -15,6 +15,8 @@
 ![Rust](https://img.shields.io/badge/Rust-0d1117?style=for-the-badge&logo=rust&logoColor=ff7b39)
 ![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=3fb950)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=58a6ff)
+![Astro](https://img.shields.io/badge/Astro-0d1117?style=for-the-badge&logo=astro&logoColor=ff5d01)
+![Solidity](https://img.shields.io/badge/Solidity-0d1117?style=for-the-badge&logo=solidity&logoColor=b517ff)
 <br />
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=58a6ff)
@@ -30,7 +32,9 @@
 | ⚙️ **C** | reading parsers, fuzz harnesses, bug hunting |
 | 🦀 **Rust** | poking at security-key firmware |
 | 🐚 **Bash** | glue, run scripts, long fuzzing loops |
-| 🌐 **TypeScript** | my TISC write-up site |
+| 🌐 **TypeScript** | the interactive bits on my site |
+| 🚀 **Astro** | building my TISC write-up site |
+| 💎 **Solidity** | poking at smart contracts |
 
 <br />
 
