@@ -26,7 +26,7 @@
 
 <br /><br />
 
-| | used it for |
+| ✨ fun stuff | used it for |
 |:--|:--|
 | 🐍 **Python** | CTF solves, tooling, proof-of-concepts |
 | ⚙️ **C** | reading parsers, fuzz harnesses, bug hunting |
@@ -39,6 +39,8 @@
 <br />
 
 ## 🏁 TISC 2026
+
+🏆 **Among the top 50 finishers**
 
 ### [**▶ Read my write-ups**](https://queryoptimiser.github.io/tisc-2026/)
 
