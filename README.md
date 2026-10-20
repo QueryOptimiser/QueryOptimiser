@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="QueryOptimiser: neon city skyline with a cat walking along the rooftops" width="100%" />
+<img src="assets/banner-v3.svg" alt="QueryOptimiser: neon city skyline with a cat walking along the rooftops" width="100%" />
 
 # 🔓 break it. understand it. write it up.
 
-<img src="assets/terminal.svg" alt="terminal: whoami, about, interests, writeups" width="88%" />
+<img src="assets/terminal-v3.svg" alt="terminal: whoami, about, interests, writeups" width="88%" />
 
 <br />
 
