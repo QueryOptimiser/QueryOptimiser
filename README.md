@@ -26,7 +26,7 @@
 
 <br /><br />
 
-| ✨ fun stuff | used it for |
+| ✨ fun stuff | 🧑‍🏭 used it for |
 |:--|:--|
 | 🐍 **Python** | CTF solves, tooling, proof-of-concepts |
 | ⚙️ **C** | reading parsers, fuzz harnesses, bug hunting |
